@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oficinaintergrupal-del.github.io/oficina-intergrupal-aa-kansas-city/sitemap.xml
